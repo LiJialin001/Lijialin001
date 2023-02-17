@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 Junior at 🇨🇳  Tianjin University，major in Communication Engineering
+- 🔭 Junior at 🇨🇳  Tianjin University，major in Communication Engineering  IEEE Student Member
 - 🌱 My [blog](https://wonderland.plus/) 
 - 👯 I’m looking to collaborate on developing an app that can predict Parkinson's disease in advance through the combination of iPad and Apple pencil
 - 📫 How to reach me:  lijialin_3737@icloud.com
