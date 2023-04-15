@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 Junior at 🇨🇳  Tianjin University，major in Communication Engineering  IEEE Student Member
 - 🌱 My [blog](https://wonderland.plus/) 
 - 👯 I’m looking to collaborate on developing an app that can predict Parkinson's disease in advance through the combination of iPad and Apple pencil
-- 📫 How to reach me:  lijialin_3737@icloud.com
+- 📫 How to reach me:  lijialinking@gmail.com
 - ❤️ I like both classical music and rock music. Violin is my favourite. 
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Lijialin001&show_icons=true&theme=tokyonight)]()
